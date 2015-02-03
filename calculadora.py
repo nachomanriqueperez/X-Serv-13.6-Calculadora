@@ -1,5 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+# Jose Ignacio Manrique Perez
+# Tecnologias
 
 import sys
 
